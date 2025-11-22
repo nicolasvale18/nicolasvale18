@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicolas rodrigues
 - 👀 I’m interested in Web Desiner and Crianção de Sites.
 - 🌱 I’m currently learning: python and javaScript.
-- 💞️ I’m looking to collaborate de Auxiliar Junior , E poder me desenvolver na area.
+- 💞️ I’m looking to collaborate de Assistente Junior , E poder me desenvolver na area.
 - 📫 How to reach me,  Entre em contao pelo meu mail: nicolasvale203@gmail.com.
 - 😄 Pronouns: nc
 - ⚡ Fun fact: Tennho 17 anos e quero correr atras de todo conhecimento possivel em linguagens de Tecnologia.
