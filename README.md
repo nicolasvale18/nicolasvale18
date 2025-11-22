@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicolasvale18
+- 👋 Hi, I’m Nicolas rodrigues
 - 👀 I’m interested in Web Desiner and Crianção de Sites.
 - 🌱 I’m currently learning: python and javaScript.
 - 💞️ I’m looking to collaborate de Auxiliar Junior , E poder me desenvolver na area.
