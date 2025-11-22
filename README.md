@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate de Assistente Junior , E poder me desenvolver na area.
 - 📫 How to reach me,  Entre em contao pelo meu mail: nicolasvale203@gmail.com.
 - 😄 Pronouns: nc
-- ⚡ Fun fact: Tennho 17 anos e quero correr atras de todo conhecimento possivel em linguagens de Tecnologia.
+- ⚡ Fun fact: Tennho 17 anos e estou correndo atras de todo conhecimento possivel em linguagens de Tecnologia.
 
 <!---
 nicolasvale18/nicolasvale18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
